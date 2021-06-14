@@ -1,0 +1,1 @@
+# php-str_split-strip_tags
